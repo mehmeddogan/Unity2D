@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: 68d69cc14e70a8845af1508789b84079
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1400039887774692146
+    second: 2x - Kopya_0
+  - first:
+      213: -8659230278283434716
+    second: 2x - Kopya_1
+  - first:
+      213: -492860043994080707
+    second: 2x - Kopya_2
+  - first:
+      213: 7365756195111333503
+    second: 2x - Kopya_3
+  - first:
+      213: 880016111285101464
+    second: 2x - Kopya_4
+  - first:
+      213: -3938784615287381139
+    second: 2x - Kopya_5
+  - first:
+      213: 4670651746833135962
+    second: 2x - Kopya_6
+  - first:
+      213: -5357581647098573524
+    second: 2x - Kopya_7
+  - first:
+      213: -7572315238321051611
+    second: 2x - Kopya_8
+  - first:
+      213: 8855612465850808572
+    second: 2x - Kopya_9
+  - first:
+      213: -1940403115212590997
+    second: 2x - Kopya_10
+  - first:
+      213: -6178913826160814927
+    second: 2x - Kopya_11
+  - first:
+      213: -2686839372744990682
+    second: 2x - Kopya_12
+  - first:
+      213: 2160703072925969040
+    second: 2x - Kopya_13
+  - first:
+      213: -1919451229031775327
+    second: 2x - Kopya_14
+  - first:
+      213: -5318895902452154085
+    second: 2x - Kopya_15
+  - first:
+      213: -2378968068715822478
+    second: 2x - Kopya_16
+  - first:
+      213: -6751505080441504195
+    second: 2x - Kopya_17
+  - first:
+      213: -6303381506467516027
+    second: 2x - Kopya_18
+  - first:
+      213: 8436624154072955311
+    second: 2x - Kopya_19
+  - first:
+      213: 4336810401853714500
+    second: 2x - Kopya_20
+  - first:
+      213: -8513759021280889397
+    second: 2x - Kopya_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2x - Kopya_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 277
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecccfc9c32f029ce0800000000000000
+      internalID: -1400039887774692146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 278
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425eb92c0fb34d780800000000000000
+      internalID: -8659230278283434716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_2
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 275
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3adfb9b6620929f0800000000000000
+      internalID: -492860043994080707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_3
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 280
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e6eb7eb3c683660800000000000000
+      internalID: 7365756195111333503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_4
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 277
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893e4cd9df1763c00800000000000000
+      internalID: 880016111285101464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_5
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 277
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63a50fc240a659c0800000000000000
+      internalID: -3938784615287381139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_6
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 277
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59fb8f740d71d040800000000000000
+      internalID: 4670651746833135962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_7
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 273
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d898da0eb06a5b0800000000000000
+      internalID: -5357581647098573524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_8
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 277
+        width: 183
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528a89c196bb9e690800000000000000
+      internalID: -7572315238321051611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_9
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 279
+        width: 190
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8fe8f5e9475ea70800000000000000
+      internalID: 8855612465850808572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_10
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 275
+        width: 192
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6031bcb5ad4215e0800000000000000
+      internalID: -1940403115212590997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 111
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b45fe5cc96104aa0800000000000000
+      internalID: -6178913826160814927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_12
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 75
+        width: 191
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620600373dd66bad0800000000000000
+      internalID: -2686839372744990682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_13
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 76
+        width: 179
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ae8d63ffb5cfd10800000000000000
+      internalID: 2160703072925969040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_14
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 111
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3cfd1e64dbc55e0800000000000000
+      internalID: -1919451229031775327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_15
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 86
+        width: 177
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b110f018b5c7f26b0800000000000000
+      internalID: -5318895902452154085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_16
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 83
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272423455253cfed0800000000000000
+      internalID: -2378968068715822478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_17
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 80
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ef90d76e5dd42a0800000000000000
+      internalID: -6751505080441504195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_18
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 86
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581bc37aae3e588a0800000000000000
+      internalID: -6303381506467516027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_19
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 79
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9bffe08f8e41570800000000000000
+      internalID: 8436624154072955311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_20
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 76
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440b5b445127f2c30800000000000000
+      internalID: 4336810401853714500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2x - Kopya_21
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 111
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc57649274d09d980800000000000000
+      internalID: -8513759021280889397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
